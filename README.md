@@ -2,7 +2,7 @@
 <h3 align="center">💻  Passionate about mernStack and Android developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+MERN+Lover;Adroid developer+%7C+Open+Source+Contributor;Learning+Daily+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+MERN+Lover;Android+Developer+%7C+Open+Source+Contributor;Learning+Daily+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
