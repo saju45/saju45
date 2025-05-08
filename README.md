@@ -11,7 +11,7 @@
 - 🌱 I’m learning: **web and app development**
 - 💼 Portfolio: [protfoliosaju.netlify.app](https://protfoliosaju.netlify.app/)
 - 💬 Ask me about: `React`, `Node`, `Firebase`, `javaScript`, `java`
-- 📫 Reach me: [Email](shanawajsaju@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shanawaj-hossain-saju-3115b922b/)
+- 📫 Reach me: [Email](mailto:shanawajsaju@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shanawaj-hossain-saju-3115b922b/)
 - ⚡ Fun fact: `Nothing to Say 🤐`
 
 ---
